@@ -1,1 +1,2 @@
-﻿reporter.ReportEvent micpass,"first script","passed"
+﻿
+reporter.ReportEvent micpass,"first script","passed"
